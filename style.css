@@ -25,5 +25,8 @@ header {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: aqua;
+    padding-top: 100px;
+}
+.header-title{
+    color: aqua;
 }
