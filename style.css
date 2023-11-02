@@ -18,3 +18,12 @@ nav {
 .nav-flex-item:hover{
 	background-color:#5CCCCC;
 }
+header {
+    background-image: url(фон.jpg);
+    text-align: center;
+    height: 400px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+}
