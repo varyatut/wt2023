@@ -50,6 +50,7 @@ header {
 h2{
     color: aliceblue;
     font-size: 20px;
+    text-align: center;
 }
 .comp-flex{
     display: flex;
