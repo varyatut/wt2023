@@ -28,13 +28,18 @@ header {
     color: aqua;
     font-size: 40px;
 }
-.inf{
+.wrapper{
+    width:90%;
     background-color:rgb(255, 255, 255);
     align-items: left;
     height: 250px;
 }
+.inf-flex{
+    display: flex;
+    justify-content: flex-end;
+
+}
 .picture{
     width: 350px;
     height: 200px;
-    text-align: right;
 }
