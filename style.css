@@ -31,8 +31,6 @@ header {
 .wrapper{
     background-color:white;
     height: 250px;
-    border: 5px;
-    border-color: black;
 }
 .inf-flex{
     display: flex;
@@ -43,4 +41,19 @@ header {
     width: 200px;
     height: 150px;
 
+}
+.comp{
+    background-color: black;
+    height: 250px;
+
+}
+h2{
+    color: aliceblue;
+    font-size: 20px;
+}
+.comp-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
