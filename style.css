@@ -47,9 +47,13 @@ header {
     height: 250px;
 
 }
-h2{
+.wh{
+    color: black;
+    font-size: 30px;
+}
+.bl{
     color: aliceblue;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
 }
 .comp-flex{
@@ -57,4 +61,5 @@ h2{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    padding-top: 50px;
 }
