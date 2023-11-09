@@ -32,3 +32,17 @@ header {
     color: aqua;
     font-size: 40px;
 }
+.me{
+    text-align:left;
+    width: 70%;
+}
+.figure{
+    list-style-type:none;
+	padding:20px;
+	margin-right:0px;
+	font-size:20px;
+}
+.picture{
+    text-align:left;
+    width: 30%;
+}
