@@ -30,8 +30,7 @@ header {
 }
 .wrapper{
     width:90%;
-    background-color:rgb(255, 255, 255);
-    align-items: left;
+    background-color:blueviolet;
     height: 250px;
 }
 .inf-flex{
