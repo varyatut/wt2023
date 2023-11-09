@@ -63,16 +63,14 @@ header {
     align-items: center;
     padding-top: 50px;
 }
-.figma{
-    display:block;
-}
-.figma + p{
-    width: 200px;
-    text-align: center;
-}
+
 p{
     color: aliceblue;
 }
+tr{
+    width: 100%;
+}
 td{
     color: aliceblue;
+    padding: 20px;
 }
