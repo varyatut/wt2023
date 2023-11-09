@@ -29,8 +29,7 @@ header {
     font-size: 40px;
 }
 .wrapper{
-    width:90%;
-    background-color:blueviolet;
+    background-color:white;
     height: 250px;
 }
 .inf-flex{
