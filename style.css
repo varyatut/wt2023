@@ -31,6 +31,8 @@ header {
 .wrapper{
     background-color:white;
     height: 250px;
+    border: 5px;
+    border-color: black;
 }
 .inf-flex{
     display: flex;
@@ -40,4 +42,5 @@ header {
 .picture{
     width: 200px;
     height: 150px;
+
 }
