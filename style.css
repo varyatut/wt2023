@@ -104,3 +104,7 @@ table{
 .btn:hover{
     background-color: blueviolet;
 }
+.knopka{
+    background-color: black;
+    height: 250px;
+}
