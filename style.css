@@ -53,6 +53,7 @@ header {
 .wh{
     color: black;
     font-size: 30px;
+    padding-left: 20px;
 }
 .bl{
     color: aliceblue;
@@ -82,7 +83,8 @@ table{
 }
 .spisok{
     background-color: white;;
-    height: 350px;
+    height: 250px;
+    margin-bottom: 10px;
 }
 .spisok-flex{
     display: flex;
