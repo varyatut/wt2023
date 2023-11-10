@@ -38,6 +38,7 @@ header {
 .inf-flex{
     display: flex;
     justify-content: flex-end;
+    padding-left: 30px;
 
 }
 .picture{
