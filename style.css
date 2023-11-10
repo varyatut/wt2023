@@ -47,7 +47,7 @@ header {
 }
 .comp{
     background-color: black;
-    height: 250px;
+    height: 300px;
 
 }
 .wh{
@@ -79,4 +79,15 @@ td{
 }
 table{
     width: 100%;
+}
+.spisok{
+    background-color: white;;
+    height: 300px;
+}
+.spisok-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 50px;
 }
