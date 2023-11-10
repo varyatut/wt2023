@@ -95,16 +95,12 @@ table{
     align-items: center;
     padding-top: 50px;
 }
-a.btn{
+.btn{
     color: aqua;
     text-decoration: none;
     background-color: blue;
     padding: 5px;
 }
-a.btn:hover{
+.btn:hover{
     background-color: blueviolet;
-}
-.knopka{
-    background-color: black;
-    height: 300px;
 }
