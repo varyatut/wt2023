@@ -117,6 +117,7 @@ table{
 }
 .ach{
     color: aliceblue;
+    padding-left: 50px;
 }
 .footer-flex{
     display: flex;
