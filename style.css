@@ -102,6 +102,23 @@ table{
     align-items: center;
     padding-top: 50px;
 }
+.spisok2{
+    background-color: white;;
+    height: 250px;
+    margin-bottom: 10px;
+}
+.spisok2-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 50px;
+}
+.zag{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
 .knopka{
     background-color: black;
     height: 250px;
