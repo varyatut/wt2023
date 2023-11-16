@@ -103,11 +103,12 @@ table{
 .knopka-flex{
     display: flex;
     justify-content: center;
+    align-self: center;
 }
 .btn{
     color: aqua;
     text-decoration: none;
-    background-color: blue;
+    background-color: black;
     padding: 5px;
 }
 .btn:hover{
@@ -115,7 +116,5 @@ table{
 }
 .footer-flex{
     display: flex;
-    flex-direction: row;
     justify-content: flex-start;
-    align-self: center;
 }
