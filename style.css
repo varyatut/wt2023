@@ -103,7 +103,7 @@ table{
 .knopka-flex{
     display: flex;
     justify-content: center;
-    align-self: center;
+    align-items: center;
 }
 .btn{
     color: aqua;
