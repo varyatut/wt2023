@@ -108,3 +108,9 @@ table{
 .btn:hover{
     background-color: blueviolet;
 }
+.footer-flex{
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 30px;
+    padding-right: 40px;
+}
