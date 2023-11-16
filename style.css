@@ -82,6 +82,7 @@ td{
 }
 table{
     width: 100%;
+    padding-left: 60px;
 }
 .spisok{
     background-color: white;;
