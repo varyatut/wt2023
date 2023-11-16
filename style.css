@@ -98,7 +98,11 @@ table{
 .knopka{
     background-color: black;
     height: 250px;
-    padding-top: 50%;
+    
+}
+.knopka-flex{
+    display: flex;
+    justify-content: center;
 }
 .btn{
     color: aqua;
@@ -112,6 +116,4 @@ table{
 .footer-flex{
     display: flex;
     justify-content: flex-start;
-    padding-left: 30px;
-    padding-right: 40px;
 }
