@@ -98,6 +98,7 @@ table{
 .knopka{
     background-color: black;
     height: 250px;
+    padding-top: 50%;
 }
 .btn{
     color: aqua;
