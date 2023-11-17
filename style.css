@@ -119,6 +119,9 @@ table{
     color: aliceblue;
     text-align: center;
 }
+.sp{
+    color:black;
+}
 .knopka{
     background-color: black;
     height: 250px;
