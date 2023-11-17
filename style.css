@@ -159,3 +159,6 @@ th{
     display: flex;
     justify-content: flex-start;
 }
+li{
+    padding-left: 20px;
+}
