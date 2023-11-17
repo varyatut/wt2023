@@ -132,6 +132,9 @@ th{
     color:black;
     border: 1px solid black;
 }
+.sp.sp1{
+    padding-left: 20px;
+}
 .knopka{
     background-color: black;
     height: 250px;
