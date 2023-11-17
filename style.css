@@ -91,6 +91,10 @@ table{
     width: 100%;
     padding-left: 60px;
 }
+.table2{
+    padding-left: 30;
+    width: 100%;
+}
 .spisok{
     background-color: white;;
     height: 250px;
