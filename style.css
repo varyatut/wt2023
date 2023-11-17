@@ -94,7 +94,16 @@ table{
 .table2{
     padding-left: 30;
     width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
 }
+th{
+    border:1px solid black;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
 .spisok{
     background-color: white;;
     height: 250px;
@@ -119,13 +128,9 @@ table{
     align-items: center;
     padding-top: 50px;
 }
-.zag{
-    background-color: black;
-    color: aliceblue;
-    text-align: center;
-}
 .sp{
     color:black;
+    border: 1px slid black;
 }
 .knopka{
     background-color: black;
