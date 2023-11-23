@@ -205,4 +205,5 @@ hr{
     width: 200px;
     height: 130px ;
     border: 2px solid black ;
+    text-align: center;
 }
