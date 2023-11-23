@@ -164,6 +164,9 @@ th{
     display: flex;
     justify-content: flex-start;
 }
+footer{
+    margin-top: 20 px;
+}
 li{
     padding-left: 20px;
 }
@@ -187,4 +190,17 @@ main{
 }
 hr{
     color: rgb(145, 24, 145);
+}
+.contacts{
+    background-color: white;
+}
+.contacts-flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.block{
+    width: 70px;
+    height: 50px ;
+    border: 2px solid black ;
 }
