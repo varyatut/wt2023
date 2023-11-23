@@ -202,8 +202,11 @@ hr{
     height: 300px;
 }
 .block{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
     width: 200px;
     height: 130px ;
     border: 2px solid black ;
-    text-align: center;
 }
