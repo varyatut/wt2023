@@ -199,6 +199,7 @@ hr{
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-evenly;
 }
 .block{
     width: 150px;
