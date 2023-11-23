@@ -170,6 +170,7 @@ li{
 .first-flex{
     display: flex;
     justify-content: flex-start;
+    padding-top: 20 px;
 }
 .second-flex{
 
