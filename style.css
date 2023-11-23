@@ -187,4 +187,8 @@ main{
 }
 br{
     margin-left: 15 px;
+    padding-left: 15px;
+}
+hr{
+    color: rgb(145, 24, 145);
 }
