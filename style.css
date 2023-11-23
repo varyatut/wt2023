@@ -173,7 +173,10 @@ li{
     padding-top: 20 px;
 }
 .second-flex{
-
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 30px;
+    padding-right: 40px;
 }
 .third-flex{
 
