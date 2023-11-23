@@ -193,7 +193,7 @@ hr{
 }
 .contacts{
     background-color: white;
-    height: 250 px;
+    height: 400 px;
 }
 .contacts-flex{
     display: flex;
@@ -202,7 +202,7 @@ hr{
     justify-content: space-evenly;
 }
 .block{
-    width: 150px;
+    width: 200px;
     height: 130px ;
     border: 2px solid black ;
 }
