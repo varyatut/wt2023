@@ -167,3 +167,14 @@ th{
 li{
     padding-left: 20px;
 }
+.first-flex{
+    display: flex;
+    justify-content: flex-start;
+}
+}
+.second-flex{
+
+}
+.third-flex{
+
+}
