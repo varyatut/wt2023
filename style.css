@@ -193,14 +193,13 @@ hr{
 }
 .contacts{
     background-color: white;
-    height: 400 px;
 }
 .contacts-flex{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
-    height: 400px;
+    height: 300px;
 }
 .block{
     width: 200px;
