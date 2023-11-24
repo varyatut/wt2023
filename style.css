@@ -216,11 +216,13 @@ form{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
     padding-top: 10px;
     padding-bottom: 40px;
     width:500px;
     height: 500px;
     background-color: aliceblue;
     border: 2px solid rgb(29, 3, 41);
+}
+.fm{
+    text-align: center;
 }
