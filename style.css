@@ -217,8 +217,7 @@ form{
     justify-content: center;
     align-items: center;
     padding-top: 10px;
-    padding-bottom: 20px;
-    width: 500;
-    height: 600;
+    padding-bottom: 40px;
+    width: 60%;
     border: 2px solid rgb(29, 3, 41);
 }
