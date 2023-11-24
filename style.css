@@ -213,13 +213,13 @@ hr{
 }
 form{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
     padding-top: 10px;
     padding-bottom: 40px;
     width:500px;
-    height: 700px;
+    height: 500px;
     background-color: aliceblue;
     border: 2px solid rgb(29, 3, 41);
 }
