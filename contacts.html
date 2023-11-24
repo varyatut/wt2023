@@ -36,9 +36,10 @@
                 </div>
             </div>
         <form>
-            <h2 class="wh2">Написать мне</h2>
+            <fieldset>
+                <legend>Написать мне</legend>
             <div>
-                <label for="name">Имя:</label>
+                <label for="name">Имя <em>*</em></label>
                 <input type="text" name="name" id="name">
             </div>
             <div>
@@ -49,9 +50,11 @@
                 <label for="message">Сообщение:</label><br>
                 <textarea name="message" id="message" cols="30" rows="10"></textarea>
             </div>
+        </fieldset>
             <div>
                 <input type="submit" value="отправить">
             </div>
+            
         </form>
         </main>
         <footer>
